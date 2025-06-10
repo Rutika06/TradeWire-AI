@@ -2,6 +2,10 @@
 > An intelligent packet analysis and reporting system that leverages LLMs to detect and explain network anomalies in PCAP files.
 
 ---
+![Screenshot 2025-06-10 160001](https://github.com/user-attachments/assets/58b5564c-e36e-40b9-b87d-385ad2a57251)
+
+
+
 
 ## 📌 Overview
 
