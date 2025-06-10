@@ -137,7 +137,7 @@ def generate_pdf_report(packet_data, explanations, pdf_path="reports/pcap_report
     pdf.set_font("Arial", size=12)
 
     # Title
-    pdf.cell(200, 10, txt="TradeSleuth - PCAP Analysis Report", ln=True, align='C')
+    pdf.cell(200, 10, txt="TradeWire AI - PCAP Analysis Report", ln=True, align='C')
     pdf.ln(10)
     
     # Timestamp
